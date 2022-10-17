@@ -26,7 +26,6 @@ namespace Корнеева3
             System.Console.WriteLine("Кем вы были в прошлой жизни - " + animal);   
             System.Console.WriteLine("Ваш знак зодиака - "  + zodiac);
             System.Console.WriteLine("поэтому вы - загадочная личность");
-            привет!!!
 
         }
     }
